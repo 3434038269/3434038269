@@ -3,6 +3,6 @@
 
 
 
-<body>
-<img class="xzc" src="./image/R-C_processed.jpg" alt="" width="80%" height="80%">
+<body width="1000" height="100%" >
+    <img class="xzc" src="./image/R-C_processed.jpg" alt="" width="70%" height="70%">
 </body>
