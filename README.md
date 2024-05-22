@@ -1,7 +1,19 @@
-<div id="title" align=center>
+#### 天天向上🤣🤣🤣
 
 
 
-</div>
-
-![头像](image/20230522140445.jpg)
+<style>
+body{
+    width:100%;
+    height:100%
+}
+.xzc {
+    width:80%;
+    height:80%;
+    object-fit: cover;
+    margin: auto;
+}
+</style>
+<body>
+    <img class="xzc" src="./image/R-C_processed.jpg" alt="">
+</body>
